@@ -14,7 +14,7 @@ public class Test0001 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("This is the second test");
+        System.out.println("This is the third test");
         testMammals();
     }
 
