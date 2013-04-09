@@ -16,6 +16,7 @@ public class Test0001 {
     public static void main(String[] args) {
         System.out.println("This is the third test");
         System.out.println("This is another change");
+        System.out.println("A change by KWL");
         testMammals();
     }
 
