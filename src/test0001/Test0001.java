@@ -17,6 +17,7 @@ public class Test0001 {
         System.out.println("This is the third test");
         System.out.println("This is another change");
         System.out.println("A change by KWL");
+        System.out.println("a change by erick!");
         testMammals();
     }
 
